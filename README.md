@@ -11,7 +11,6 @@
     <table>
         <tr>
             <td><img src="https://github.com/nahlabhm/calculatrice-/assets/49809803/424dfd92-c964-4680-b951-dd96cf4292f0" alt="calcul"></td>
-
         </tr>
     </table>
 </body>
